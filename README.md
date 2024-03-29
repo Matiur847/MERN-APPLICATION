@@ -17,3 +17,5 @@ also use cookie-parser, to store user auth token on browser, for verify
 a user isValid or not, 
 
 Cloudinay -- all images store on cloudinary
+
+nodemailer -- use the nodemailer library to user forgot password recovery
